@@ -354,23 +354,23 @@ img {
 }
 
 .skills__html {
-  width: 80%;
+  width: 95%;
 }
 
 .skills__js {
-  width: 60%;
+  width: 75%;
 }
 
 .skills__react {
-  width: 40%;
+  width: 80%;
 }
 
 .skills__angular {
-  width: 50%;
+  width: 60%;
 }
 
 .skills__uiux {
-  width: 90%;
+  width: 80%;
 }
 
 .skills__php {
@@ -378,7 +378,7 @@ img {
 }
 
 .skills__node {
-  width: 40%;
+  width: 60%;
 }
 
 .skills__firebase {
@@ -390,7 +390,7 @@ img {
 }
 
 .skills__c {
-  width: 70%;
+  width: 75%;
 }
 
 .skills__cp {
@@ -398,13 +398,21 @@ img {
 }
 
 .skills__java {
-  width: 65%;
-}
-
-.skills__python {
   width: 70%;
 }
 
+.skills__python {
+  width: 80%;
+}
+.know__more {
+  display: block;
+  font-size: var(--smaller-font-size);
+  color: var(--first-color-darken);
+  text-align: center;
+  font-weight: var(--font-bold);
+  margin-bottom: 0.25rem;
+  cursor: pointer;
+}
 /* ===== EDUCATION =====*/
 
 .education__container {
