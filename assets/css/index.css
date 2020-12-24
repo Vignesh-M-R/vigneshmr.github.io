@@ -404,6 +404,7 @@ img {
 .skills__python {
   width: 80%;
 }
+
 .know__more {
   display: block;
   font-size: var(--smaller-font-size);
@@ -413,6 +414,8 @@ img {
   margin-bottom: 0.25rem;
   cursor: pointer;
 }
+
+
 /* ===== EDUCATION =====*/
 
 .education__container {
